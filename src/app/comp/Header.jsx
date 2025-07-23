@@ -5,7 +5,7 @@ import { assets } from '../assets/assets'
 import { motion } from 'framer-motion';
 const Header = () => {
   return (
-    <div className='w-11/12 max-w-3xl  text-center mx-auto min-h-screen flex flex-col items-center justify-center gap-4 py-10'>
+    <div className='w-11/12 max-w-3xl  text-center mx-auto min-h-screen flex flex-col items-center justify-center gap-4'>
 <div className="flex flex-col items-center text-center">
   <motion.div  
   initial={{ scale:0 }}
